@@ -25,3 +25,4 @@ terima kasih kepada para kontributor yang telah membantu dalam pengembangan proy
         - [@ariesmaulana](https://github.com/ariesmaulana)
         - [@addthoriq](https://github.com/addthoriq)
         - [@adipginting](https://github.com/adipginting)
+        - [@pradanaadn](https://github.com/pradanaadn)
