@@ -12,3 +12,4 @@ Berikut adalah beberapa tips dan trik dalam mengolala proyek:
 1. CI/CD
 1. logging and monitoring
 1. license (MIT)
+1. Contract & Code of Conduct
