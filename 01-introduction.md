@@ -3,4 +3,4 @@
 - Pekerjaan: 
     - Software Engineer at Quantus Telematika Indonesia 
     - Admin BandungPy
-    - Clasher Clash of Clan (yang butuh clan bisa join Crazers (#2RR808CV8) minimal th 12)
+    - Clasher Clash of Clan (yang butuh clan bisa join Gabuk Universe (#2R2JUQJQ8) minimal th 12)

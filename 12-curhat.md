@@ -12,3 +12,4 @@
     - Core Contributor not available, Open Contibutor not available = waduh (apa lagi kalau dikejar deadline)
 1. Logging dan Monitoring tidak cukup, harus ada yang jaga lilin
 1. Client complain bug/feature, tapi dia juga yang fix bug dan feature
+1. di php sama contributor T T

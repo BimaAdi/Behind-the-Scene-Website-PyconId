@@ -7,3 +7,5 @@
 - CI/CD: GitHub Actions
 - Containerization: Docker
 - Monitoring: Docker Logs + Vercel Logs
+- Payment Gateway: Mayar
+- Streaming Platform: MUX
